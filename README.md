@@ -1,4 +1,4 @@
-# 💳 Behavioral & Risk-Based Transaction Fraud Detection using Machine Learning
+# Transaction Fraud Detection using Machine Learning
 
 ## 📌 Project Overview
 
